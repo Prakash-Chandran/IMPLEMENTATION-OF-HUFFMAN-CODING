@@ -29,6 +29,10 @@ Print the characters and its huffmancode.
 
  
 ## Program:
+```
+Name : PRAKASH C
+Reg.No : 212223240122
+```
 
 ``` Python
 # Get the input String
