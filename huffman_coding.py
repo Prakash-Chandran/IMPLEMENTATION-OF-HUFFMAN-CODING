@@ -1,6 +1,5 @@
 # Get the input String
-string = "PRAKASH"
-print(string)
+string = input("Enter a string :")
 
 # Create tree nodes
 class NodeTree(object):
