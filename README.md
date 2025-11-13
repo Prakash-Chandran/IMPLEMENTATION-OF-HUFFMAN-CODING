@@ -99,6 +99,9 @@ for (char, frequency) in freq.items():
 
 ### Print the characters and its huffmancode
 <br>
+<img width="204" height="26" alt="image" src="https://github.com/user-attachments/assets/650ab639-dcad-48af-95a5-fdc2d43b0768" />
+<img width="218" height="149" alt="image" src="https://github.com/user-attachments/assets/cea8a832-4e70-4758-b1aa-0477031e5f34" />
+
 <br>
 <br>
 <br>
